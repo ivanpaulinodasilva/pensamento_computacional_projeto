@@ -6,7 +6,9 @@
 ```markdown
 # 💇‍♂️ Sistema de Gerenciamento - Salão de Beleza
 
-Este é um projeto em **Python** desenvolvido para facilitar a gestão do dia a dia de um salão de beleza ou barbearia. O programa utiliza estruturas de dados fundamentais para organizar filas, agendamentos e finanças.
+Este é um projeto em **Python** desenvolvido para facilitar a
+gestão do dia a dia de um salão de beleza ou barbearia.
+O programa utiliza estruturas de dados fundamentais para organizar filas, agendamentos e finanças.
 
 ## 🚀 Funcionalidades
 
