@@ -50,6 +50,4 @@ Ao iniciar o programa, o usuário verá o seguinte menu:
 
 ---
 **Desenvolvido como projeto de aprendizado em Python.**
-```
 
----
