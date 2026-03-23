@@ -1,7 +1,7 @@
 
 ---
 
-### 📝 Conteúdo para o seu `README.md`
+### 📝 Primícias para o projeto em `README.md`
 
 ```markdown
 # 💇‍♂️ Sistema de Gerenciamento - Salão de Beleza
