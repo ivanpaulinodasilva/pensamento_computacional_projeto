@@ -5,7 +5,7 @@ Nosso primeiro repositório do Código da Transformação.
 
 ## 🏗️ Panorama Geral: O Sistema de Pedidos
 
-Independentemente de ser uma Hamburgueria ou um Açaí, o programa precisa seguir esta lógica:
+Independentemente de ser o programa precisa seguir esta lógica:
 
 1.  **Exibir um Menu:** Mostrar ao cliente o que está disponível.
 2.  **Receber a Escolha:** O usuário digita o que deseja.
