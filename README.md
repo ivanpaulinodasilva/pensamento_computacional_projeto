@@ -1,103 +1,84 @@
-# 🎲 Código da Transformação - EAD 🐍☁️💻
-Nosso primeiro repositório do Código da Transformação.
+
+# 🎲 Pensamento Computacional - Projeto 🐍☁️💻
+Nosso primeiro repositório oficial do Código da Transformação. Um espaço para aprender, praticar e documentar o desenvolvimento de sistemas reais em Python.
+
+---
+
+## 💇‍♂️ Projeto em Destaque: Sistema de Gerenciamento - Salão de Beleza
+
+Este projeto foi desenvolvido para facilitar a gestão de um salão ou barbearia, utilizando estruturas de dados para organizar o fluxo de trabalho.
+
+### 🚀 Funcionalidades Principais
+1. **Fila de Espera (FIFO):** Registro de clientes por ordem de chegada.
+2. **Agenda de Atendimento:** Transição da espera para o serviço confirmado.
+3. **Tabela de Preços Dinâmica:** Uso de **Dicionários** para gerir serviços e valores.
+4. **Relatório de Variedade:** Uso de **Sets** para identificar serviços únicos prestados.
+5. **Painel Administrativo:** Alteração de preços e configurações em tempo real.
+6. **Calculadora Integrada:** Cálculos de totais, descontos e acréscimos.
+
+### 🛠️ Tecnologias e Estruturas Utilizadas
+* **Listas (`[]`):** Gestão da fila cronológica.
+* **Dicionários (`{}`):** Mapeamento de serviços e preços.
+* **Sets (`{}`):** Filtro de serviços únicos para relatórios.
+* **Laços de Repetição (`while`):** Menu interativo e persistente.
+* **Condicionais (`if/elif/else`):** Lógica de tomada de decisão.
 
 ---
 
 ## 🏗️ Panorama Geral: O Sistema de Pedidos
-
-Independentemente de ser o programa precisa seguir esta lógica:
-
-1.  **Exibir um Menu:** Mostrar ao cliente o que está disponível.
-2.  **Receber a Escolha:** O usuário digita o que deseja.
-3.  **Processar o Pagamento:** Calcular o total e informar ao usuário.
-
-### 🛠️ O que vamos usar?
-
-* **Variáveis:** Para guardar os nomes e preços.
-* **Print:** Para exibir informações na tela.
-* **Input:** Para o usuário interagir com o código.
-* **Condicionais (if/else):** Para decidir o que o programa faz baseando-se na escolha do cliente.
+Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue esta lógica fundamental:
+1. **Exibir um Menu:** Mostrar ao cliente o que está disponível.
+2. **Receber a Escolha:** O usuário digita o que deseja (`input`).
+3. **Processar o Pagamento:** Calcular o total e informar ao usuário.
 
 ---
 
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima
-* | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre
-* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva
-* | Vinicius Batista
+* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+* | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre |
+* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
 
 ### 🌆 Tarde (Segunda e Terça)
-* | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima
-* | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva
-* | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira
-* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte
-* | Yuri Santana
+* | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
+* | Gustavo Jesus | Igor Batista | João Teles | Julio Ilidio | Lana Reis | Larissa Silva |
+* | Leandro Xavier | Lorenzo Carmo | Luis Gentil | Luiz Silva | Miguel Alves | Milena Oliveira |
+* | Nicolly Gonçalves | Paulo Nascimento | Richard Pimenta | Thalya Alcantara | Thierry Duarte | Yuri Santana |
 
 ---
 
 ## 📂 Projetos por Tema
 
-### 🍔 Hamburgueria / Burguer
-* **Grupos:**
-* | Marcos Nobre, Samuel Paiva, Diego Farias
-* | Gabriel Lima, Gabriele Campos, Maria Matos, Vinicius Batista
-* | Gabriela Leite, Henrique Souza, Laís Renata, Rychard Rodrigues
-* | Beatriz Oliveira, Clara, João, Maria Ferreira
-* | Claudomiro Santos, Richard Pimenta | Julio Ilidio, Miguel Alves.
-
-### 🍧 Açaí
-* **Grupos:**
-* | Anthony Bezerra, C. Adriano, Luan Seiji
-* | Cauã José, Juan Pablo, Pedro Henrique
-* | Guilherme Firmino, Gustavo Rodrigues, Leonardo Santana, Wilson
-* | Lorenzo Carmo, Luis Gentil, Maxuel Xavier.
-
-### 🥖 Padaria
-* **Grupos:**
-* | Kauã, Miguel Marcondes | Fellipe Lima, Gustavo Jesus, Juliana Lima, Lana Reis.
-
-### 🍽️ Restaurante
-* **Grupo:**
-* | Alicya Duarte, Ana Nascimento, Larissa Silva, Nicolly Gonçalves, Thalya Alcantara, Thierry Duarte.
-
-### ✂️ Barbearia
-* **Grupo:**
-* | Allan Costa, Igor Batista, Milena Oliveira, Yuri Santana.
-
-### 💄 Salão de Beleza
-* **Grupo:**
-* | Michelle Andrade, Rafaela, Stefani Santos.
+* **🍔 Hamburgueria:** Marcos, Samuel, Diego | Gabriel L., Gabriele C., Maria M., Vinicius B. | Gabriela L., Henrique S., Laís R., Rychard R. | Beatriz O., Clara, João, Maria F. | Claudomiro S., Richard P. | Julio I., Miguel A.
+* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
+* **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
+* **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
+* **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
+* **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
 
 ---
 
 ## 💻 Exemplos de Código (Python)
 
-Abaixo, temos três níveis de complexidade para os sistemas.
+Abaixo, os três níveis de complexidade utilizados no aprendizado:
 
 ### 1️⃣ Exemplo Básico: Pedido Único
-Focado em variáveis e exibição simples.
-
 ```python
 # Objetivo: Registrar o pedido de um cliente e exibir o valor total.
 print("--- Bem-vindo à Nossa Hamburgueria! ---")
 
-# 1. Definição do Menu
 hamburguer_simples = 15.00
 hamburguer_duplo = 25.00
 refrigerante = 7.00
 
-# 2. Exibição das opções
 print("Cardápio:")
 print(f"1. Hambúrguer Simples - R$ {hamburguer_simples}")
 print(f"2. Hambúrguer Duplo - R$ {hamburguer_duplo}")
 print(f"3. Refrigerante - R$ {refrigerante}")
 
-# 3. Entrada de dados
 escolha = input("\nDigite o número do item que deseja pedir: ")
 
-# 4. Processamento do Pedido
 if escolha == "1":
     print(f"Você escolheu o Simples. Total: R$ {hamburguer_simples}")
 elif escolha == "2":
@@ -109,11 +90,9 @@ else:
 ```
 
 ### 2️⃣ Exemplo Intermediário: Atendimento Personalizado
-Focado em interação amigável e boas-vindas.
-
 ```python
 # Objetivo: Simular a recepção de um cliente com F-Strings.
-nome_cliente = input("Olá! Qual é o seu name? ")
+nome_cliente = input("Olá! Qual é o seu nome? ")
 
 print("\n" + "="*30)
 print(f"BEM-VINDO(A) À VOCA-BURGER, {nome_cliente.upper()}!")
@@ -136,12 +115,8 @@ else:
 ```
 
 ### 3️⃣ Exemplo Avançado: Carrinho de Compras (Loop While)
-Este código permite selecionar múltiplos itens e soma o total automaticamente.
-
 ```python
 # Objetivo: Permitir múltiplos pedidos e somar o total.
-# Conceitos: While (Loop), Acumuladores e Operadores Matemáticos.
-
 nome_cliente = input("Qual o seu nome? ")
 total_conta = 0.0  
 continuar = True   
@@ -181,15 +156,12 @@ print("="*30)
 ---
 
 ## 📚 Método Educativo: Estrutura de Dados
-Na programação, o que acabamos de fazer foi transformar uma **Lista Desordenada** em uma **Lista Estruturada**.
+* **Dicionários e Listas:** Como organizar nomes e preços de forma profissional.
+* **Variáveis Acumuladoras:** Uso do operador `+=` para somar valores progressivamente.
+* **Boas Práticas de UX:** Feedback visual e formatação de moeda (`:.2f`).
 
-* **Agrupamento:** Em linguagens como Python, poderíamos usar um **Dicionário**
-* para salvar esses dados, onde a "Chave" é o **Tema** e o "Valor" é a **Lista de Alunos**.
-* **Markdown:** É a linguagem que estamos usando para formatar este texto.
-* Ela é essencial para programadores documentarem seus projetos no GitHub de forma clara e profissional.
+---
+**Desenvolvido como projeto de aprendizado em Python - 2026.**
+```tém a visão geral do sistema de Salão, a lista de todos os alunos e os três códigos de exemplo que construímos. 
 
-### 📖 O que aprendemos com os códigos?
-1.  **Variáveis Acumuladoras:** A `total_conta` guarda a soma dos valores usando o operador `+=`.
-2.  **O Laço `while`:** Cria uma repetição que só para quando a variável `continuar` vira `False`.
-3.  **Boas Práticas de UX:** Feedback imediato e formatação de moeda (`:.2f`).
-
+**Gostaria que eu explicasse como você pode transformar o "Exemplo 3" em um dicionário para que os preços não fiquem fixos no código (hardcoded)?** Seria o próximo passo lógico para os alunos!
