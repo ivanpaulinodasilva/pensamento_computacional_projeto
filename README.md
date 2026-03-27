@@ -160,8 +160,5 @@ print("="*30)
 * **Variáveis Acumuladoras:** Uso do operador `+=` para somar valores progressivamente.
 * **Boas Práticas de UX:** Feedback visual e formatação de moeda (`:.2f`).
 
----
-**Desenvolvido como projeto de aprendizado em Python - 2026.**
-```tém a visão geral do sistema de Salão, a lista de todos os alunos e os três códigos de exemplo que construímos. 
 
 **Gostaria que eu explicasse como você pode transformar o "Exemplo 3" em um dicionário para que os preços não fiquem fixos no código (hardcoded)?** Seria o próximo passo lógico para os alunos!
