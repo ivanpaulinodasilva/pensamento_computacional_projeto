@@ -36,9 +36,9 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+*  | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
 * | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre |
-* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
+* <!--Diogo--> | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -61,7 +61,7 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
 * **💄 Salão de Beleza:** Michelle, Rafaela, Stefani.
-
+<!--🍔* ** hamburgueria:** diogo,matheus
 ---
 
 ## 💻 Exemplos de Código (Python)
