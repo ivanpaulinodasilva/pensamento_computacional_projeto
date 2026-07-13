@@ -36,9 +36,13 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 👥 Participantes Organizados
 
 ### 🌅 Manhã (Segunda e Terça)
-* | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
+*<> | Anthony Bezerra | Beatriz Borges | C. Adriano | Cauã José | Diego Farias | Gabriel Lima |
 * | Gabriele Campos | Henrique Souza | Juan Pablo | Laís Renata | Luan Seiji | Marcos Nobre |
-* | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
+* <!--diogo| matheus--!> | Maria Matos | Pedro Henrique | Rafael Araújo | Rychard Rodrigues | Samuel Paiva | Vinicius Batista |
+
+
+
+
 
 ### 🌆 Tarde (Segunda e Terça)
 * | Alicya Duarte | Allan Costa | Ana Nascimento | Claudomiro Santos | Davi Lima | Fellipe Lima |
@@ -50,13 +54,14 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 
 ## 📂 Projetos por Tema
 
-* **🍔 Hamburgueria:** Marcos, Samuel, Diego
+!* **🍔 Hamburgueria:** Marcos, Samuel, Diego
 * | Gabriel L., Gabriele C., Maria M., Vinicius B.
 * | Gabriela L., Henrique S., Laís R., Rychard R.
 * | Beatriz O., Clara, João, Maria F.
 * | Claudomiro S., Richard P.
 * | Julio I., Miguel A.
-* **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
+
+<!-- * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel. espaço do diogo | matheus -->
 * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
 * **🍽️ Restaurante:** Alicya, Ana, Larissa, Nicolly, Thalya, Thierry.
 * **✂️ Barbearia:** Allan, Igor, Milena, Yuri.
