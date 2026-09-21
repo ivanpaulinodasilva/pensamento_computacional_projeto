@@ -38,10 +38,10 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ### 🌅 Manhã (Segunda e Terça)
 * | Nathan Dias |
 * | Felipe Mendes| Igor Freitas |
-* | Diogo Santos | Matheus |
-* | Beatriz | Gustavo | Yasmim | Maria | 
-* | Isabelly | Sarah | Ester |
-* |<!--Pedro-->|
+* | Diogo Santos | Matheus Santos |
+* | Beatriz Araujo | Gustavo Silva | Yasmim Silva | Maria Mello | 
+* | Isabelly Castello | Sarah Santos | Ester Furukawa |
+* | Pedro Fausino |
 * | Geovana Leite | Gabrielly Santos
 <!--vazio-->
 <!--vazio-->
@@ -75,6 +75,18 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 ## 📂 Projetos por Tema
 
 * **💈 Barbearia:** Nathan Dias
+* **💈 Barbearia:** Felipe Mendes | Igor Freitas
+* **🍔 Hamburgueria:** Diogo Santos | Matheus Santos
+* **🥖 Padaria:** Beatriz Araujo | Gustavo Silva | Yasmim Silva | Maria Mello
+* **🍧 Açaiteria:** Isabelly Castello | Sarah Santos | Ester Furukawa
+* **💄 Salão de Beleza:** Geovana Leite | Gabrielly Santos
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+
+
 * **🍧 Açaí:** Anthony, C. Adriano, Luan S. | Cauã, Juan, Pedro H. | Guilherme, Gustavo, Leonardo, Wilson | Lorenzo, Luis, Maxuel.
 * **🥖 Padaria:** Kauã, Miguel M. | Fellipe, Gustavo R., Juliana, Lana.
 * **🍧 Açaí:** Isabelly, sarah, ester.
