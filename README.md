@@ -70,6 +70,15 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 
+| Luane Penafort | Larissa Souza
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+<!--vazio-->
+
+
+
 ---
 
 ## 📂 Projetos por Tema
