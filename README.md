@@ -49,18 +49,20 @@ Independentemente do tema (Hamburgueria, Açaí ou Salão), o programa segue est
 <!--vazio-->
 <!--vazio-->
 ### 🌆 Tarde (Segunda e Terça)<!--Turma de Segunda - 5 Linhas e Terça - 5 Linhas-->
-* | Gabriel Carvalho | Gustavo | Nicolas | Felipe | Kauan | Victor |  <!-- Nosso grupo-->
+* |Gabriel Carvalho|Gustavo silva |Nicolas Santana|Felipe Oliveira| Kauan Cavalcanti|Victor Oliveira |  <!-- Nosso grupo-->
 * | Leandro Xavier |Rebeca Del Negro| Ellis Oliveira | Daniel Souza | Manuela Andrade |<!--nosso grupo-->
 * | Giovana Medeiros | Gabriel Aquino | Lucas Prates | Rafael Aquino | Arthur Cordeiro | <!--nosso grupo-->
 * | Filipe Luis, | Maria Eduarda Verissimo,| Isabella Sampaio |<!--Feito com Profy-->
-* | Leonardo Sales |
+* | Leonardo Sales|Anna Clara Pereira Da Silva|Henrique Augusto|Carlos Eduardo Pereira|Isabelly Marcelino
+* | Larissa Carneiro|Izabelly Vitoria Santos| Eric Renan Soares|Filipe Luis|Lívia Giffony|Luane Penafort
+* | Jamily Do Carmo Santos|Lucas Rocha|Miguel Dias|Nathanael Dias|Nicole Mendes|Nicollas Tegas|
+* |Nycollas Rodrigues|Otavio Luiz|Pedro Henrique De Oliveira|Pedro Henrique Flausino|Pedro Henrique Melo 
+* | Sophia Neris | Thiago Araújo|Wayne Arthur|Yasmin Dos Santos|Yasmin Silva|Yasmin Vitória
 <!--vazio-->
 <!--vazio-->
 <!--vazio-->
-<!--vazio-->
-<!--vazio-->
-* | Miguel Dias | Sophia Neris | Yasmin Silva | Pedro Henrique | Nicollas Tegas| Anna Clara | Tiago Araujo
-* | Carlos Pereira | 
+* Tiago Araujo
+* 
 * | Luane |
 * | Pietro |
 * | Samuel |
